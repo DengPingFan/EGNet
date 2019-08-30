@@ -40,7 +40,7 @@ EGNet:Edge Guidance Network for Salient Object Detection (ICCV 2019)
 ```
 
 ### Other related work
-SOD Benchmark: Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground. (ECCV2019) [page]( http://dpfan.net/socbenchmark/)
+SOD Benchmark: Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground. (ECCV2018) [page]( http://dpfan.net/socbenchmark/)
 Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection. (CVPR2019) [page](https://mmcheng.net/rgbdsalpyr/)
 
 
